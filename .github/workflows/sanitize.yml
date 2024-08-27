@@ -1,7 +1,7 @@
 name: Sanitize
 
 env:
-  CARGO_TERM_COLOR: always
+Git  CARGO_TERM_COLOR: always
   RUSTFLAGS: -D warnings
 
 on:
